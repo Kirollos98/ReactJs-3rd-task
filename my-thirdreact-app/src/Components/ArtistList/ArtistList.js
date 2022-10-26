@@ -12,7 +12,7 @@ class ArtistList extends Component{
         }
     }
 
-
+    // added comment 
     renderArtists({artistList,errorMsg}){
         //console.log("from the renders",artistList)
         if(artistList.length > 0){

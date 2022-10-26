@@ -4,6 +4,8 @@ import './App.css';
 import ArtistDetails from './Components/ArtistDetails/ArtistDetails';
 import ArtistList from './Components/ArtistList/ArtistList';
 
+   // added comment 
+
 function App() {
   return (
     <div >
