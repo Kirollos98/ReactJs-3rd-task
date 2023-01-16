@@ -5,6 +5,9 @@ import ArtistDetails from './Components/ArtistDetails/ArtistDetails';
 import ArtistList from './Components/ArtistList/ArtistList';
 
 function App() {
+  /// adding 1
+  /// adding 2
+  /// adding 3
   return (
     <div >
 <BrowserRouter>
